@@ -1,6 +1,8 @@
 <h1>Hello World! Eu sou Douglas Volcato. 🖖 </h1>
 <div>
 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+ 
 ## ❤️ Interesses
 - Aprender coisas novas
 - Tecnologia e software
@@ -26,7 +28,9 @@
  <br>
 </div>
 
-   ![Github Stats](https://github-readme-stats.vercel.app/api?username=DouglasVolcato&theme=dark&show_icons=true)
+<div align="left">
+  <a href="https://github.com/DouglasVolcato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasVolcato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
  <p align="center">
  <a href="https://www.chess.com/analysis/library/4cfbESqiDC"><img src = "https://www.chess.com/dynboard?fen=Q7/p2q1kpp/2r1p3/5p2/8/1P6/P1p2PPP/2R3K1%20w%20-%20-%200%2026&board=green&piece=neo&size=3"width="190" height="190"/> </a> <a href="https://www.chess.com/analysis/library/48exwGgTYa"><img src = "https://www.chess.com/dynboard?fen=1b6/1n6/p3k3/2p2p2/4p2B/4K1P1/5P2/8%20w%20-%20-%200%2043&board=green&piece=neo&size=3"width="190" height="190"/> </a> <a href="https://www.chess.com/analysis/library/kVa2KMvnJ"><img src = "https://www.chess.com/dynboard?fen=8/4k3/8/p1pK4/P1P2P2/8/8/8%20b%20-%20-%204%2051&board=green&piece=neo&size=3"width="190" height="190"/> </a> <a href="https://www.chess.com/analysis/library/5UZveEpUsp"><img src = "https://www.chess.com/dynboard?fen=1r4k1/5pp1/3p1n2/2p1pP2/b1P1P3/3P2qP/4Q1B1/7K%20w%20-%20-%200%2041&board=green&piece=neo&size=3"width="190" height="190"/> </a>
