@@ -4,13 +4,13 @@
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
  
 ## ❤️ Interesses
-- Aprender coisas novas
-- Tecnologia e software
-- Investimentos
-- Bicicleta
-- Xadrez
-- Livros
-- Natureza
+- Aprender coisas novas 🚀
+- Tecnologia e software 👽
+- Investimentos 💰
+- Bicicleta 🚴
+- Jogos de tabuleiro ♟️
+- Livros 📖
+- Natureza 🦄
  
 ## 🛠️ Linguagens e ferramentas
 <p align="left"> <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/"> <img alt="Visual Studio Code" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
