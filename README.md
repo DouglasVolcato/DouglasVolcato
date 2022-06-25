@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/douglasvolcato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="30"></a>
  <a href="https://github.com/DouglasVolcato/" target=_blank>
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white%20alt=github%20style=margin-bottom:%205px;" width="120" height="30"/>
-</a> <a href="mailto:douglasvolcato@gmail.com" target=_blank>
+</a> <a href="mailto:douglasvolcato@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" width="120" height="30"/>
 </a>
 <br>
