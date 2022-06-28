@@ -11,7 +11,7 @@
 - Aprender coisas novas 🚀
 - Tecnologia e software 👽
 - Investimentos 💰
-- Bicicleta 🚴
+- Esportes 🚴
 - Jogos de tabuleiro ♟️
 - Livros 📖
 - Natureza 🦄
