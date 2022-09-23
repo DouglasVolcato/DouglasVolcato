@@ -31,11 +31,9 @@
  <br>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasvolcato&show_icons=true&locale=en&layout=compact" alt="douglasvolcato" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasVolcato&show_icons=true&theme=highcontrast&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVolcato&layout=compact&theme=highcontrast)
 <br><br>
-<br><br>
-<br><br>
-<br><br>
+
 <p align="center">Algumas partidas divertidas de Xadrez:</p> 
 <p align="center">
 <a href="https://www.chess.com/pt/games/view/13317669" target = "_blank"><img src = "https://www.chess.com/dynboard?fen=2bqnrk1/5p1p/5PpQ/3pP1P1/2pP1R2/2P5/6BP/4qNK1%20w%20-%20-%202%2029&board=green&piece=neo&size=3"width="190" height="190"/> </a> <a href="https://www.chess.com/pt/games/view/491854" target = "_blank"><img src = "https://www.chess.com/dynboard?fen=1R6/4bk2/3p4/p2B4/Pn6/6RP/1p3PPK/8%20b%20-%20-%200%2041&board=green&piece=neo&size=3"width="190" height="190"/> </a> <a href="https://www.chess.com/pt/games/view/15770931" target = "_blank"><img src = "https://www.chess.com/dynboard?fen=8/2k4p/8/1R6/PK6/2r3P1/1p5P/b7%20w%20-%20-%200%2053&board=green&piece=neo&size=3"width="190" height="190"/> </a> <a href="https://www.chess.com/pt/games/view/18491" target = "_blank"><img src = "https://www.chess.com/dynboard?fen=3r2k1/5pp1/7p/1p1q4/1P1bp3/1Q2n1BP/5PP1/3R2K1%20w%20-%20-%200%2033&board=green&piece=neo&size=3"width="190" height="190"/> </a>
