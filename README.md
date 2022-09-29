@@ -58,4 +58,11 @@
  <br>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasVolcato&show_icons=true&theme=highcontrast&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasVolcato&layout=compact&theme=highcontrast)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglasvolcato" alt="douglasvolcato" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasvolcato&show_icons=true&locale=en&layout=compact" alt="douglasvolcato" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasvolcato&show_icons=true&locale=en" alt="douglasvolcato" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasvolcato&" alt="douglasvolcato" /></p>
+
