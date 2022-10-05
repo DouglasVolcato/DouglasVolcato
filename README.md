@@ -1,6 +1,6 @@
 <h1>Hello World! I am Douglas Volcato. 🖖 </h1>
 <ul>
-  <li><p>Desenvolvedor Full Stack</p></li>
+  <li><p>Full Stack Developer</p></li>
 </ul>
 <div>
  
