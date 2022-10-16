@@ -47,11 +47,10 @@
 
  ## 💻 Contact
   <a href="https://www.instagram.com/douglasvolcato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="120" height="30"></a>
-  <a href="https://www.linkedin.com/in/douglasvolcato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="30"></a>
- <a href="https://github.com/DouglasVolcato/" target=_blank>
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white%20alt=github%20style=margin-bottom:%205px;" width="120" height="30"/>
-</a> <a href="mailto:douglasvolcato@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" width="120" height="30"/>
+  <a href="https://www.linkedin.com/in/douglasvolcato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="120" height="30"></a> <a href="mailto:douglasvolcato@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" width="120" height="30"/>  <a href="https://forum.freecodecamp.org/u/douglasvolcato/summary" target=_blank>
+<img src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_large.jpg" width="250" height="30"/>
+</a>
 </a>
 <br>
 </div>
