@@ -22,7 +22,7 @@
 
 ## Backend Development
 <p>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://brasilcloud.com.br/wp-content/uploads/2017/07/nodejs.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://brasilcloud.com.br/wp-content/uploads/2017/07/nodejs.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="40" height="40"/> </a> <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma" width="40" height="40"/> </a>
 </p>
 
 
@@ -35,7 +35,7 @@
 ## Database
 <p>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</a> <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" alt="prisma" width="40" height="40"/> </a>
+</a>
 </p>
 
 ## Testing
