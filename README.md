@@ -45,6 +45,6 @@ Docker, Docker Compose
 ### 🏆 **Best Practices**:
 Clean Architecture, Clean Code, Design Patterns, Kanban
 
-### 🔧 **Version Control & Repositories**:
+### 🔧 **Outros**:
 GitHub, GitLab, Firebase, Git, Bash
 
