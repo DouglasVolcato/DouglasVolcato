@@ -8,7 +8,7 @@ I'm a **Full Stack Developer** with experience in:
 - Web scraping
 - Data analysis
 - Automated investment strategy development
-- RAG (Real-time AI Generative systems)
+- RAG (Retrieval-Augmented Generation)
 - Machine learning models
 - Software architecture
 
