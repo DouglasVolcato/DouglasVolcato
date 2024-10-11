@@ -30,8 +30,8 @@ Jest, Mocha, PhpUnit, Pytest, Postman, Thunder Client
 ### 📊 **Data Analysis & Visualization**:
 Pandas, D3
 
-### 🌍 **Web Scraping**:
-Selenium, BeautifulSoup
+### 🌍 **Web Scraping/Automation**:
+Selenium, BeautifulSoup, PyAutoGUI
 
 ### 🚀 **Deployment**:
 Heroku, Vercel, Railway
