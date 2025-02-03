@@ -38,7 +38,7 @@ Selenium, BeautifulSoup, PyAutoGUI
 TensorFlow, Keras, Scikit-Learn, Ollama, Transformers, LangChain  
 
 🏆 Architecture:  
-Clean Architecture, Clean Code, Design Patterns, Microservices, Event-Driven Architecture, MVC  
+Clean Architecture, Design Patterns, Microservices, Event-Driven Architecture, MVC  
 
 🛜 Data Streaming:  
 WebSockets, Socket.io, WebRTC, RabbitMQ  
@@ -47,4 +47,4 @@ WebSockets, Socket.io, WebRTC, RabbitMQ
 Heroku, Vercel, Railway, Virtual Machine, Linux, Shell, Apache, Nginx, Docker, Docker Compose  
 
 🔧 Organization:  
-Kanban, Sprint, GitHub, GitLab, Git  
+Kanban, Sprint, GitHub, GitLab, Git, Clean Code
