@@ -1,50 +1,50 @@
 # Hello World! I am Douglas Volcato. 🖖
 
-I'm a **Full Stack Developer** with experience in:
+I am a Full Stack Developer with experience in:  
 
-- Web system development
-- Mobile system development
-- Task automation
-- Web scraping
-- Data analysis
-- Automated investment strategy development
-- RAG (Retrieval-Augmented Generation)
-- Machine learning models
-- Software architecture
+- Web system development  
+- Mobile system development  
+- Task automation  
+- Web scraping  
+- Data analysis  
+- Machine learning model development  
+- Artificial intelligence agent development  
+- Software architecture  
+- Legacy system maintenance  
+- Application deployment  
 
-### 🛠️ **Languages**:
-JavaScript, TypeScript, PHP, Python, MQL5
+🛠️ Languages:  
+JavaScript, TypeScript, PHP, Python, MQL5  
 
-### 🌐 **Frontend**:
-HTML, CSS, React, React Native, Redux, SASS, Bootstrap, Vue, jQuery
+🌐 Frontend:  
+HTML, CSS, React, React Native, Redux, SASS, Bootstrap, Vue, jQuery, React Query, PrimeReact, PrimeVue, Media query, Responsiveness  
 
-### 🖥️ **Backend**:
-Node, Express, Nest, Laravel, Prisma, Flask
+🖥️ Backend:  
+Node, Express, Nest, Laravel, Prisma, Flask, FastAPI, Django  
 
-### 🗄️ **Databases**:
-SQL, NoSQL, MongoDB, PostgreSQL, MySQL, PL/PGSQL
+🗄️ Databases:  
+SQL, NoSQL, MongoDB, PostgreSQL, MySQL, PL/pgSQL, Redis, Firebase  
 
-### 🧪 **Testing**:
-Jest, Mocha, PhpUnit, Pytest, Postman, Thunder Client
+🧪 Testing:  
+Jest, Mocha, PhpUnit, Pytest, Postman, Thunder Client  
 
-### 📊 **Data Analysis & Visualization**:
-Pandas, D3
+📊 Data Analysis & Visualization:  
+Pandas, D3.js, Chart.js, Streamlit  
 
-### 🌍 **Web Scraping/Automation**:
-Selenium, BeautifulSoup, PyAutoGUI
+🌍 Web Scraping/Automation:  
+Selenium, BeautifulSoup, PyAutoGUI  
 
-### 🚀 **Deployment**:
-Heroku, Vercel, Railway
+🤖 Artificial Intelligence:  
+TensorFlow, Keras, Scikit-Learn, Ollama, Transformers, LangChain  
 
-### 🤖 **Artificial Intelligence**:
-Tensorflow, Keras, Scikit-Learn, Ollama
+🏆 Architecture:  
+Clean Architecture, Clean Code, Design Patterns, Microservices, Event-Driven Architecture, MVC  
 
-### 🛠️ **Containers**:
-Docker, Docker Compose
+🛜 Data Streaming:  
+WebSockets, Socket.io, WebRTC, RabbitMQ  
 
-### 🏆 **Best Practices**:
-Clean Architecture, Clean Code, Design Patterns, Kanban
+🚀 Deployment:  
+Heroku, Vercel, Railway, Virtual Machine, Linux, Shell, Apache, Nginx, Docker, Docker Compose  
 
-### 🔧 **Outros**:
-GitHub, GitLab, Firebase, Git, Bash
-
+🔧 Organization:  
+Kanban, Sprint, GitHub, GitLab, Git  
