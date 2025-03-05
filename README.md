@@ -14,7 +14,7 @@ I am a Full Stack Developer with experience in:
 - Application deployment  
 
 🛠️ Languages:  
-JavaScript, TypeScript, PHP, Python, MQL5  
+JavaScript, TypeScript, PHP, Python, MQL5, Go
 
 🌐 Frontend:  
 HTML, CSS, React, React Native, Redux, SASS, Bootstrap, Vue, jQuery, React Query, PrimeReact, PrimeVue, Media query, Responsiveness  
