@@ -23,7 +23,7 @@ HTML, CSS, React, React Native, Redux, SASS, Bootstrap, Vue, jQuery, React Query
 Node, Express, Nest, Laravel, Prisma, Flask, FastAPI, Django  
 
 🗄️ Databases:  
-SQL, NoSQL, MongoDB, PostgreSQL, MySQL, PL/pgSQL, Redis, Firebase  
+SQL, NoSQL, MongoDB, PostgreSQL, MySQL, PL/pgSQL, Redis, Firebase, PgMyAdmin, PhpMyAdmin  
 
 🧪 Testing:  
 Jest, Mocha, PhpUnit, Pytest, Postman, Thunder Client  
@@ -32,10 +32,10 @@ Jest, Mocha, PhpUnit, Pytest, Postman, Thunder Client
 Pandas, D3.js, Chart.js, Streamlit  
 
 🌍 Web Scraping/Automation:  
-Selenium, BeautifulSoup, PyAutoGUI  
+Selenium, BeautifulSoup, PyAutoGUI, Puppeteer, Cheerio
 
 🤖 Artificial Intelligence:  
-TensorFlow, Keras, Scikit-Learn, Ollama, Transformers, LangChain  
+TensorFlow, Keras, Scikit-Learn, Ollama, Transformers, LangChain, Hugging Face, ChatGPT, LLM, Agents, MCP Servers
 
 🏆 Architecture:  
 Clean Architecture, Design Patterns, Microservices, Event-Driven Architecture, MVC  
@@ -44,7 +44,10 @@ Clean Architecture, Design Patterns, Microservices, Event-Driven Architecture, M
 WebSockets, Socket.io, WebRTC, RabbitMQ  
 
 🚀 Deployment:  
-Heroku, Vercel, Railway, Virtual Machine, Linux, Shell, Apache, Nginx, Docker, Docker Compose  
+VPS, Hostinger, Heroku, Vercel, Railway, Virtual Machine, Linux, Shell, Apache, Nginx, Docker, Docker Compose
+
+🔎 Observability:
+Grafana, Prometheus
 
 🔧 Organization:  
 Kanban, Sprint, GitHub, GitLab, Git, Clean Code
