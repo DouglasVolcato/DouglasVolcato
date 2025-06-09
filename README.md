@@ -17,7 +17,7 @@ I am a Full Stack Developer with experience in:
 JavaScript, TypeScript, PHP, Python, MQL5, Go
 
 🌐 Frontend:  
-HTML, CSS, React, React Native, Redux, SASS, Bootstrap, Vue, jQuery, React Query, PrimeReact, PrimeVue, Media query, Responsiveness  
+HTML, CSS, React, React Native, Redux, SASS, Bootstrap, Vue, jQuery, React Query, PrimeReact, PrimeVue, Media query, Ejs, Responsiveness, SSR, SPA 
 
 🖥️ Backend:  
 Node, Express, Nest, Laravel, Prisma, Flask, FastAPI, Django  
@@ -29,7 +29,7 @@ SQL, NoSQL, MongoDB, PostgreSQL, MySQL, PL/pgSQL, Redis, Firebase, PgMyAdmin, Ph
 Jest, Mocha, PhpUnit, Pytest, Postman, Thunder Client  
 
 📊 Data Analysis & Visualization:  
-Pandas, D3.js, Chart.js, Streamlit  
+Pandas, D3.js, Chart.js, ApexCharts, Streamlit  
 
 🌍 Web Scraping/Automation:  
 Selenium, BeautifulSoup, PyAutoGUI, Puppeteer, Cheerio
