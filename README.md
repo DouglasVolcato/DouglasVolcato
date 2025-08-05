@@ -41,10 +41,10 @@ TensorFlow, Keras, Scikit-Learn, Ollama, Transformers, LangChain, Hugging Face, 
 Clean Architecture, Design Patterns, Microservices, Event-Driven Architecture, MVC  
 
 🛜 Data Streaming:  
-WebSockets, Socket.io, WebRTC, RabbitMQ  
+WebSockets, Socket.io, WebRTC, RabbitMQ, RPC, gRPC
 
 🚀 Deployment:  
-VPS, Hostinger, Heroku, Vercel, Railway, Virtual Machine, Linux, Shell, Apache, Nginx, Docker, Docker Compose
+VPS, Hostinger, Heroku, Vercel, Railway, Virtual Machine, Linux, Shell, Apache, Nginx, Docker, Docker Compose, Makefile
 
 🔎 Observability:
 Grafana, Prometheus
